@@ -1,0 +1,41 @@
+* {    
+    box-sizing: border-box;
+  }
+  .body {
+      background-color: rgb(253, 254, 255);
+      display: flex;
+      justify-content: center;
+      align-items: center;  
+    font-family: cambria, Helvetica, sans-serif;
+  
+  }
+  
+  
+  .h2 {
+      background-color: rgb(, 96, 150);
+  }
+  
+  .header {
+   /* background-color: #666;*/
+    background-color:blue;
+    border: 3px solid black;
+    padding: 10px;
+    text-align: left;
+    font-size: 20px;
+    color: white;
+  }
+  .article {
+    float: right; 
+    width: 20%;
+    position:relative;
+    bottom: 120px;
+    }
+  
+  .footer {
+  /*  background-color:grey;*/
+    padding: 10px;
+    text-align: left;
+    color:black;
+  }
+  
+  
